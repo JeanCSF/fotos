@@ -1,0 +1,20 @@
+/* main.css */
+.img_header{
+    width: 300px;
+    height: 150px;
+}
+
+.foto-info{
+    background-color: rgb(68, 68, 68);
+    color: white;
+}
+
+.foto-info-publica{
+    background-color: rgb(0, 78, 20);
+    color: white;
+}
+
+.foto-info-privada{
+    background-color: rgb(82, 0, 0);
+    color: white;
+}
