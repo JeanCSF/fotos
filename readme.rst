@@ -1,8 +1,15 @@
 ###################
 Sobre a aplicação
 ###################
-Aplicação que simula uma rede social de fotografis desenvolvida utilizando CodeIgniter3, Bootstrap e FontAwesome. 
+Aplicação que simula uma rede social de fotografias desenvolvida utilizando CodeIgniter3, Bootstrap e FontAwesome. 
 Seguindo a playlist do prof. João Ribeiro sobre a framework: `link da playlist 
+<https://www.youtube.com/watch?v=LCuhLhOEtlg&list=PLXik_5Br-zO_Wm3hOar8liZOkV4xUYqUE>`_.
+
+###################
+About this application 
+###################
+This application simulates a photographies social network, and was developed using CodeIgniter3, Bootstrap and FontAwesome,
+following the João Ribeiro's playlist about the framework: `playlist link 
 <https://www.youtube.com/watch?v=LCuhLhOEtlg&list=PLXik_5Br-zO_Wm3hOar8liZOkV4xUYqUE>`_.
 
 ###################
